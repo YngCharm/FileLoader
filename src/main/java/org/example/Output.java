@@ -9,8 +9,7 @@ import java.util.Scanner;
 
 public class Output {
     Employee employee = new Employee();
-    CodeGeneration codeGeneration = new CodeGeneration();
-    List<String> codeName = new ArrayList<String>();
+    List<String> codeName = new ArrayList<>();
     String name;
     int numEmployee;
 
